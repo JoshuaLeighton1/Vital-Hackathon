@@ -5,7 +5,8 @@ set -o errexit
 pip install -r requirements.txt
 python manage.py collectstatic --no-input
 
-# 1. Generate the database blueprints
+
+python manage.py makemigrations ordering
 python manage.py makemigrations
 
 # 2. Build the database tables
