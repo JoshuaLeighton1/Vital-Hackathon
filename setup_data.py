@@ -36,6 +36,32 @@ products = [
         "stock_quantity": 50
     },
     {
+            "name": "Vital C 1000mg", 
+            "description": "High potency C-vitamin for immune system support.", 
+            "price": 120.00, 
+            "stock_quantity": 50
+    },
+    {
+            "name": "Vital Zinc 50mg", 
+            "description": "High potency zinc for immune system support.", 
+            "price": 180.00, 
+            "stock_quantity": 50
+    },
+    {
+            "name": "Vital Ashwagandha 500mg", 
+            "description": "High potency ashwagandha for stress and anxiety support.", 
+            "price": 300.00, 
+            "stock_quantity": 50
+    },
+    {
+            "name": "Vital Energy Boost", 
+            "description": "High potency energy and nervous system support.", 
+            "price": 180.00,    
+            "stock_quantity": 50
+    },
+ 
+
+    {
         "name": "Vital Omega 3", 
         "description": "1000mg Salmon oil for heart and brain health.", 
         "price": 150.00, 
